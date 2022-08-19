@@ -1,0 +1,52 @@
+
+/*.contact-form {
+    color: #ab32de 
+}
+.contact-form {
+    font-size:          25px;
+    background-color:   #000;
+    width:              100vw;
+    height:             100vw;
+
+}
+.contact-form__h2 {
+    font-size:      5em;
+    font-family:    'Fascinate', cursive;
+    line-height:    1.9;
+    font-weight:    700;
+
+    
+    
+}*/
+
+* {
+   font-family: 'lobster', cursive;
+   font-weight: 100;
+   font-size: 30px; 
+}
+
+.caja1 {
+
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin: auto
+    
+}
+
+.caja2 {
+    
+    width: 200px;
+    height: 200px;
+    background: brown;
+    margin: auto
+
+
+}
+
+
+
+
+ 
+
+
